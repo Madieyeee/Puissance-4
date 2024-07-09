@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1720467347 source:c:\users\bmd-tech\documents\l1 génie logiciel\langage c\puissance 4++\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Puissance 4.h"
+
+1720467188 c:\users\bmd-tech\documents\l1 génie logiciel\langage c\puissance 4++\puissance 4.h
+
+1720507129 source:c:\users\bmd-tech\documents\l1 génie logiciel\langage c\puissance 4++\puissance 4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Puissance 4.h"
+	<windows.h>
+
